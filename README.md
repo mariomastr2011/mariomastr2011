@@ -1,3 +1,40 @@
-I spent like 15m writing a readme only to accidentally close it and lose it all.
+<div align="center">
+  
+```
+ _____ ______   ________  ________  ___  ________  _____ ______   ________  ________  _________  ________     
+|\   _ \  _   \|\   __  \|\   __  \|\  \|\   __  \|\   _ \  _   \|\   __  \|\   ____\|\___   ___\\   __  \    
+\ \  \\\__\ \  \ \  \|\  \ \  \|\  \ \  \ \  \|\  \ \  \\\__\ \  \ \  \|\  \ \  \___|\|___ \  \_\ \  \|\  \   
+ \ \  \\|__| \  \ \   __  \ \   _  _\ \  \ \  \\\  \ \  \\|__| \  \ \   __  \ \_____  \   \ \  \ \ \   _  _\  
+  \ \  \    \ \  \ \  \ \  \ \  \\  \\ \  \ \  \\\  \ \  \    \ \  \ \  \ \  \|____|\  \   \ \  \ \ \  \\  \| 
+   \ \__\    \ \__\ \__\ \__\ \__\\ _\\ \__\ \_______\ \__\    \ \__\ \__\ \__\____\_\  \   \ \__\ \ \__\\ _\ 
+    \|__|     \|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|__|     \|__|\|__|\|__|\_________\   \|__|  \|__|\|__|
+                                                                              \|_________|                    
+```
 
-![i support trans rights!](https://camo.githubusercontent.com/1c94c7e005f5f4cdbbc49e5dc344de97068b689887b00102cbeb49726b5f04b6/68747470733a2f2f70726964652d6261646765732e706f6e792e776f726b6572732e6465762f7374617469632f76313f6c6162656c3d7472616e732532307269676874732673747269706557696474683d3626737472697065436f6c6f72733d3542434546412c4635413942382c4646464646462c4635413942382c354243454641)
+**Visionary · Synergistic ·  Pivotal**
+
+*"How do these PC things work again?"*
+
+</div>
+
+## Languages
+
+<div align="center">
+
+### Know
+
+![java](https://shields.io/badge/Java-red?logo=openjdk&style=for-the-badge&logoColor=white)
+![Python](https://shields.io/badge/Python-yellow?logo=python&style=for-the-badge&logoColor=white)
+
+### Learning
+
+![GDScript](https://shields.io/badge/gdscript-6b01b2?logo=godotengine&style=for-the-badge&logoColor=white)
+
+### Want to learn
+
+![cpp](https://shields.io/badge/c++-blue?logo=cplusplus&style=for-the-badge&logoColor=white)
+![6502 asm](https://shields.io/badge/6502_asm-greem?logo=&style=for-the-badge&logoColor=white)
+
+</div>
+
+![i support trans rights!](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
